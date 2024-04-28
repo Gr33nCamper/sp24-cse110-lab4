@@ -4,4 +4,4 @@
  
 3. values added: 20
 
-5. There is a reference error, since result is being called outside the block it is defined in, it is not defined
+5. The code returns a reference error, since result is being called in line 13 which is outside the block it is defined in
