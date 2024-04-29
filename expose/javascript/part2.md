@@ -1,6 +1,6 @@
-1. The code causes an error because i will be out of scope
-2.    t
-3.    t
+1. 3
+2. 150
+3. 150
 4.    t
 5.    t
 6.    t
