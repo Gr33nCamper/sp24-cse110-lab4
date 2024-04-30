@@ -37,4 +37,8 @@
 16. **See part2-question16.js file**
 17. The result will be an array newArr = [2,4,6]. Since the callback is to the function doSomething which returns twice the number it receives as an input parameter. Since this doubled number is being is being pushed into newArr, modifyArray will consist of numbers which are exactly double those of the input array [1,2,3].
 18. **See part2-question18.js file**
-19.   t
+19.  1
+     4
+     3
+     2
+
